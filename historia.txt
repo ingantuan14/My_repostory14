@@ -1,0 +1,8 @@
+
+Hola soy Antonio Arana, un super Data Engineer
+
+Que ayuda a startups a mejorar sus analisis de datos para producir
+impacto en sus negocios 
+
+Empleando las mejores herramientas y practicas 
+de Data Science y Machine Learning
