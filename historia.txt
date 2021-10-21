@@ -12,3 +12,5 @@ $200mil al año y soy muy feliz
 
 Su mama tambien esta feliz porque el le regalo una camioneta blanca nueva de paquete y un consultorio 
 nuevo para ella
+
+Ahora tambien se como manejar git y github
