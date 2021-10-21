@@ -1,7 +1,0 @@
-
-Esto es un archivo de pureba para practicar los conceptos de 
-git rm
-y
-git reset
-
-Esta es una nueva linea de prueba
