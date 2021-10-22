@@ -14,3 +14,5 @@ Su mama tambien esta feliz porque el le regalo una camioneta blanca nueva de paq
 nuevo para ella
 
 Ahora tambien se como manejar git y github
+
+Hemos actualizado la conexion a Github con llaves publicas y privadas! 
