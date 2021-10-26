@@ -32,3 +32,9 @@ E hice un pull de todos los archivos, hacia mi nueva carpeta desde el repositori
 $ git pull origin main
 Ahora, debo actualizar la conexion SSH
 
+BORRAR BRANCHES IN GITHUB
+
+Deleting a branch REMOTELY
+Here's the command to delete a branch remotely: git push <remote> --delete <branch>.
+
+For example: git push origin --delete fix/authentication
