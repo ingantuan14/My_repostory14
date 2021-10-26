@@ -19,3 +19,16 @@ Hemos actualizado la conexion a Github con llaves publicas y privadas!
 
 Ahora, estamos probando una rama llamada fix-typo, para pruebas y correcciones, que vamos a hacerle merge 
 hacia la rama main en github
+
+Se ignoran archivos agregandolos a un directorio .gitignore, y todo lo que copiemos alli, no sera mostrado 
+en github
+
+Tuve perdida de conexion con git, asi lo resolvi:
+borre la carpete
+volvi a iniciar git en una nueva carpeta
+cree el enlace hacia el origin, con $ git remote origin add https:/... 
+Luego verifique el enlace con $ git remote -v 
+E hice un pull de todos los archivos, hacia mi nueva carpeta desde el repositorio en github, con:
+$ git pull origin main
+Ahora, debo actualizar la conexion SSH
+
